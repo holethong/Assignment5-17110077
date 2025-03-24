@@ -1,0 +1,14 @@
+.idea
+*.iml
+local.properties
+build
+.gradle
+# Eclipse project files
+.project
+.settings/	
+.classpath
+
+# Project exclude paths
+/.github/
+/app/
+/gradle/
